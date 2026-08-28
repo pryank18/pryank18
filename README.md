@@ -1,6 +1,6 @@
 ### Hi, I'm Pryank 👋
 
-Country Head, FuelBuddy Zimbabwe — I run the P&L, procurement, logistics, and sales for the business, leading a cross-border team of 60+ across Zimbabwe, Mozambique, Zambia, UAE, and India, and have onboarded 46+ enterprise and regional clients.
+Country Head, Zimbabwe — I run the P&L, procurement, logistics, and sales for the business, leading a cross-border team of 60+ across Zimbabwe, Mozambique, Zambia, UAE, and India, and have onboarded 46+ enterprise and regional clients.
 
 Outside of that, I build small operational tools — mostly things I wish existed while running fuel logistics in the field. Two I'm actively working on:
 
