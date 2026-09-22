@@ -15,5 +15,3 @@ Outside of that, I build workflow software — mostly tools I wished existed whi
 I think in terms of what a product needs to actually solve, not just what it can technically do — comes from spending more time in operations than in code.
 
 See all live projects → [pryank18.github.io](https://pryank18.github.io) · [LinkedIn](https://www.linkedin.com/in/pryankwadhera)
-
-📍 Based in India, currently looking at opportunities in Dubai.
