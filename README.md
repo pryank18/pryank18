@@ -41,7 +41,9 @@ Sample products I've taken from field problem to PRD to working demo. They run o
 | 📦 **Dispatch OS** | FMCG distributors take orders on WhatsApp and lose track of credit. B2B ordering that blocks orders breaching a retailer's credit limit and dispatches against live stock. | [Case study](https://fern-appliance-85f.notion.site/3ebefd17b76681328d1ef67b614c73b4) · [Demo](https://pryank18.github.io/dispatch-os/) · [PRD](https://github.com/pryank18/dispatch-os/blob/main/docs/PRD.md) · [Repo](https://github.com/pryank18/dispatch-os) |
 | ⛽ **Depotline** | Depot operators juggle stock, pricing and fleet fuel logs across spreadsheets. One live view of stock, price, margin and fleet consumption. | [Case study](https://fern-appliance-85f.notion.site/3ebefd17b76681089891ed7697810089) · [Demo](https://pryank18.github.io/depotline-fuel-ops/) · [PRD](https://github.com/pryank18/depotline-fuel-ops/blob/main/docs/PRD.md) · [Repo](https://github.com/pryank18/depotline-fuel-ops) |
 | 🧭 **Msafara** | Tour operators chase hotels and vendors by hand. An AI agent that drafts requests, follows up, negotiates within rules and builds client proposals over email and WhatsApp. | [Case study](https://fern-appliance-85f.notion.site/3ebefd17b766814b8760e8717345b4a7) · [Demo](https://pryank18.github.io/Msafara/) · [PRD](https://github.com/pryank18/Msafara/blob/main/docs/PRD.md) · [Repo](https://github.com/pryank18/Msafara) |
-| 🏺 **ArchaeologyWala** | A React content platform for archaeology and history: blog, learning tracks, resource library and contributor submissions. | [Repo](https://github.com/pryank18/ArchaeologyWala) |
+| 🏋️ **FitNexx** | Gym-goers follow generic templates that ignore what they actually lift. A strength-training app where every logged set adjusts the next one, with adaptive programs and progress tracking. | [Demo](https://pryank18.github.io/fitnexx/) · [PRD](https://github.com/pryank18/fitnexx/blob/main/FitNexx_PRD.md) · [Repo](https://github.com/pryank18/fitnexx) |
+
+**In progress:** 🏺 ArchaeologyWala, a React content platform for archaeology and history.
 
 ### How I lead product
 
@@ -66,7 +68,7 @@ Guest mentor, IIM Raipur · Founder, TALAASH Heritage · MBA in AI for Business,
 
 ### Toolkit
 
-**Product:** discovery and field research, PRDs/BRDs/MRDs, pricing, go-to-market, P&L ownership · **Build:** HTML/CSS/JS, React, Tailwind, Supabase, Shopify API · **AI:** Claude, agentic workflows, LangGraph
+**Product:** discovery and field research, PRDs/BRDs/MRDs, pricing, go-to-market, P&L ownership · **Build:** HTML/CSS/JS, React, Tailwind, Supabase, Shopify API · **AI:** Claude, agentic workflows, LangGraph · **Business systems:** Salesforce, in-house CRM/ERP
 
 ### Reach me
 
