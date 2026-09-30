@@ -7,6 +7,7 @@ Country Head at **FuelBuddy Zimbabwe**, where I opened the market from zero and 
 Outside work I build sample products end to end, from PRD to a working demo, to test ideas properly. They run on sample data and are not commercial products.
 
 📘 **Portfolio and case studies:** [Notion portfolio](https://fern-appliance-85f.notion.site/Pryank-Wadhera-3eaefd17b76680c88283e85a3217ff52)
+
 🧪 **All live demos:** [pryank18.github.io](https://pryank18.github.io/)
 
 ---
