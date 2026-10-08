@@ -1,8 +1,10 @@
 ## Hi, I'm Pryank 👋
 
-**Product and business leader. I build 0→1 products and the businesses around them.**
+**Senior Product Manager · B2B SaaS, B2C and platform products · Payments, APIs, IoT and growth.**
 
-Country Head at **FuelBuddy Zimbabwe**. I opened the market from zero and now run it end to end: P&L, procurement, logistics, sales and hiring. Before that I was a Product Manager at FuelBuddy India (enterprise fuel management, including the Jindal Steel system) and an APM at Legal Suvidha, a LegalTech SaaS. I own the P&L, not just the roadmap, and I still ship software myself.
+I build 0→1 products and the businesses around them.
+
+Country Head & Product Manager at **FuelBuddy Zimbabwe**. I opened the market from zero as its Product Manager and now run it end to end: P&L, procurement, logistics, sales and hiring. Before that I was a Product Manager at FuelBuddy India (enterprise fuel management, including the Jindal Steel system) and an APM at Legal Suvidha, a LegalTech SaaS. I own the P&L, not just the roadmap, and I still ship software myself.
 
 | **7 years** | **4 countries** | **46+ clients** | **8 direct · 50+ cross-border** |
 |:---:|:---:|:---:|:---:|
@@ -15,7 +17,7 @@ Country Head at **FuelBuddy Zimbabwe**. I opened the market from zero and now ru
 ### Track record
 
 - **New market, zero to profitable in year one.** Entered Zimbabwe with no customers, team or supply chain; built a recurring, margin-positive wholesale fuel business.
-- **Country Head within a year of entry.** Promoted to own the full P&L: procurement, logistics, sales, pricing and hiring.
+- **Country Head & Product Manager after a year in market.** Asked by the CEO to own the full P&L (procurement, logistics, sales, pricing and hiring) while keeping the product role.
 - **Jindal Steel: pilot to long-term contract.** A fuel management system that cut loss, theft and spillage at the plant, sold on outcome-based pricing.
 - **Strategy with the CEO.** Project Arjun: mapped EV and oil & gas retail infrastructure with FuelBuddy's CEO and GM to shape where the company goes next.
 - **Research Associate to PM in six months.** Earned the product role by shipping.
@@ -58,9 +60,10 @@ Sample products I've taken from field problem to PRD to working demo. They run o
 
 | When | Role | Where |
 |---|---|---|
-| Apr 2026 – now | **Country Head, Zimbabwe** | FuelBuddy |
-| Apr 2025 – Mar 2026 | Sr. Manager, Business Development | FuelBuddy (Zimbabwe) |
-| 2023 – 2025 | Product Manager (from Research Associate) | FuelBuddy (India) |
+| May 2026 – now | **Country Head & Product Manager** | FuelBuddy Zimbabwe |
+| Apr 2025 – Apr 2026 | Product Manager | FuelBuddy Zimbabwe |
+| Jul 2023 – Apr 2025 | Product Manager | FuelBuddy India |
+| Jan 2023 – Jun 2023 | Research Associate | FuelBuddy India |
 | Feb 2021 – Nov 2022 | Associate Product Manager | Legal Suvidha (LegalTech SaaS) |
 | Aug 2019 – Jan 2021 | Research Associate | Citizens Foundation for Policy Solutions |
 
@@ -74,4 +77,4 @@ Guest mentor, IIM Raipur · Founder, TALAASH Heritage · MBA in AI for Business,
 
 [Notion portfolio](https://fern-appliance-85f.notion.site/Pryank-Wadhera-3eaefd17b76680c88283e85a3217ff52) · [LinkedIn](https://linkedin.com/in/pryankwadhera) · wadherapryank@gmail.com
 
-Open to **Head of Product, Senior PM and product-led business leadership roles** in Dubai, India or remote.
+Open to **Senior Product Manager, Lead PM and Product Lead roles**. Based in New Delhi, open to relocation, hybrid or remote. 30-day notice.
