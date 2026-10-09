@@ -4,11 +4,11 @@
 
 I build 0→1 products and the businesses around them.
 
-Country Head & Product Manager at **FuelBuddy Zimbabwe**. I opened the market from zero as its Product Manager and now run it end to end: P&L, procurement, logistics, sales and hiring. Before that I was a Product Manager at FuelBuddy India (enterprise fuel management, including the Jindal Steel system) and an APM at Legal Suvidha, a LegalTech SaaS. I own the P&L, not just the roadmap, and I still ship software myself.
+Country Head & Product Manager at **FuelBuddy Zimbabwe**. I opened the market from zero as its Product Manager and now run it end to end: P&L, procurement, logistics, sales and hiring. Before that I was a Product Manager at FuelBuddy India (enterprise fuel management, including the Jindal Steel Plant system) and an APM at Legal Suvidha, a LegalTech SaaS. I own the P&L, not just the roadmap, and I still ship software myself.
 
-| **7 years** | **4 countries** | **46+ clients** | **8 direct · 50+ cross-border** |
+| **7+ years · 5+ in product** | **4 countries** | **50+ repeat B2B customers** | **8-person team · 50+ colleagues** |
 |:---:|:---:|:---:|:---:|
-| Policy research, B2B SaaS, energy | Zimbabwe, Zambia, Nigeria, India | Enterprise and regional accounts onboarded | Zimbabwe team + colleagues in Mozambique, Zambia, UAE, India |
+| Policy research, B2B SaaS, energy | India and Zimbabwe; Zambia and Nigeria expansion work | Converted in nine months from a network of 400+ | Zimbabwe team + colleagues in Mozambique, Zambia, UAE, India |
 
 📘 **Portfolio and case studies:** [Notion portfolio](https://fern-appliance-85f.notion.site/Pryank-Wadhera-3eaefd17b76680c88283e85a3217ff52) &nbsp;·&nbsp; 🧪 **Live demos:** [pryank18.github.io](https://pryank18.github.io/) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/pryankwadhera)
 
@@ -16,10 +16,10 @@ Country Head & Product Manager at **FuelBuddy Zimbabwe**. I opened the market fr
 
 ### Track record
 
-- **New market, zero to profitable in year one.** Entered Zimbabwe with no customers, team or supply chain; built a recurring, margin-positive wholesale fuel business.
-- **Country Head & Product Manager after a year in market.** Asked by the CEO to own the full P&L (procurement, logistics, sales, pricing and hiring) while keeping the product role.
-- **Jindal Steel: pilot to long-term contract.** A fuel management system that cut loss, theft and spillage at the plant, sold on outcome-based pricing.
-- **Strategy with the CEO.** Project Arjun: mapped EV and oil & gas retail infrastructure with FuelBuddy's CEO and GM to shape where the company goes next.
+- **New market, zero to 1.5M litres a month by month ten.** Launched the Zimbabwe B2B bulk-fuel business, setting up banking, procurement, credit, dispatch and reporting under written SOPs.
+- **Country Head and Product Manager from May 2026.** Asked by the CEO to own the full P&L (procurement, logistics, sales, pricing and hiring) while keeping the product role.
+- **Jindal Steel Plant: about INR 4 lakh saved a month.** A six-month IoT FMS pilot saved 20 paise a litre on around 2M litres of diesel.
+- **Project Arjun with the CEO and GM.** Led the 0-to-1 roadmap and PRDs for a B2C fuel-retail app, including merchant-side UPI Intent and QR checkout with failure handling, refunds and reconciliation.
 - **Research Associate to PM in six months.** Earned the product role by shipping.
 
 ### Product case studies
@@ -60,14 +60,14 @@ Sample products I've taken from field problem to PRD to working demo. They run o
 
 | When | Role | Where |
 |---|---|---|
-| May 2026 – now | **Country Head & Product Manager** | FuelBuddy Zimbabwe |
-| Apr 2025 – Apr 2026 | Product Manager | FuelBuddy Zimbabwe |
-| Jul 2023 – Apr 2025 | Product Manager | FuelBuddy India |
-| Jan 2023 – Jun 2023 | Research Associate | FuelBuddy India |
-| Sep 2021 – Dec 2022 | Associate Product Manager | Legal Suvidha (LegalTech SaaS) |
-| Aug 2019 – Aug 2021 | Research Associate | Citizens Foundation for Policy Solutions |
+| May 2026 – now | **Country Head & Product Manager** | FuelBuddy, Harare, Zimbabwe (consultant engagement) |
+| Apr 2025 – Apr 2026 | Product Manager | FuelBuddy, Harare, Zimbabwe (consultant engagement) |
+| Jul 2023 – Apr 2025 | Product Manager | FuelBuddy, Gurugram, India |
+| Jan 2023 – Jun 2023 | Research Associate | FuelBuddy, Gurugram, India |
+| Sep 2021 – Dec 2022 | Associate Product Manager | Legal Suvidha (LegalTech B2B SaaS) |
+| Aug 2019 – Aug 2021 | Research Associate (Consultant) | Citizens’ Foundation for Policy Solutions |
 
-Guest mentor, IIM Raipur · Founder, TALAASH Heritage · MBA in AI for Business, O.P. Jindal Global University (Dec 2026) · PhD candidate, Deccan College
+Guest Mentor, IIM Raipur (PGP 2023–25), six student groups · Founder, TALAASH Heritage · MBA, Artificial Intelligence for Business, O.P. Jindal Global University (Expected Dec 2026) · PhD candidate, Deccan College
 
 ### Toolkit
 
