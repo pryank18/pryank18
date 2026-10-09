@@ -64,8 +64,8 @@ Sample products I've taken from field problem to PRD to working demo. They run o
 | Apr 2025 – Apr 2026 | Product Manager | FuelBuddy Zimbabwe |
 | Jul 2023 – Apr 2025 | Product Manager | FuelBuddy India |
 | Jan 2023 – Jun 2023 | Research Associate | FuelBuddy India |
-| Feb 2021 – Nov 2022 | Associate Product Manager | Legal Suvidha (LegalTech SaaS) |
-| Aug 2019 – Jan 2021 | Research Associate | Citizens Foundation for Policy Solutions |
+| Sep 2021 – Dec 2022 | Associate Product Manager | Legal Suvidha (LegalTech SaaS) |
+| Aug 2019 – Aug 2021 | Research Associate | Citizens Foundation for Policy Solutions |
 
 Guest mentor, IIM Raipur · Founder, TALAASH Heritage · MBA in AI for Business, O.P. Jindal Global University (Dec 2026) · PhD candidate, Deccan College
 
