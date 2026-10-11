@@ -1,6 +1,6 @@
 ## Hi, I'm Pryank 👋
 
-**Senior Product Manager · 0-to-1 B2B SaaS, AI and platform products.**
+**Senior Product Manager · 0-to-1 B2B SaaS, B2C, AI and platform products.**
 
 I build 0→1 products and the businesses around them.
 
