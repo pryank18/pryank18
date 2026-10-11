@@ -20,7 +20,6 @@ Country Head & Product Manager at **FuelBuddy Zimbabwe**. I opened the market fr
 - **Country Head and Product Manager from May 2026.** Asked by the CEO to own the full P&L (procurement, logistics, sales, pricing and hiring) while keeping the product role.
 - **IoT fuel management at a major steel producer.** Cut loss, theft and spillage by 20 paise a litre on 2M litres a month, reaching an INR 4 lakh monthly saving run-rate by month six of the pilot.
 - **Project Arjun with the CEO and GM.** Led 0-to-1 product strategy, roadmap and PRDs for a B2C fuel-retail app, specifying UPI Intent and QR checkout; 200+ employees made 2,000+ transactions in month one.
-- **Research Associate to PM in six months.** Earned the product role by shipping.
 
 ### Product case studies
 
@@ -62,16 +61,15 @@ Sample products I've taken from field problem to PRD to working demo. They run o
 |---|---|---|
 | May 2026 – now | **Country Head & Product Manager** | FuelBuddy, Harare, Zimbabwe (consultant engagement) |
 | Apr 2025 – Apr 2026 | Product Manager | FuelBuddy, Harare, Zimbabwe (consultant engagement) |
-| Jul 2023 – Apr 2025 | Product Manager | FuelBuddy, Gurugram, India |
-| Jan 2023 – Jun 2023 | Research Associate | FuelBuddy, Gurugram, India |
+| Jan 2023 – Apr 2025 | Product Manager | FuelBuddy, Gurugram, India |
 | Sep 2021 – Dec 2022 | Associate Product Manager | Legal Suvidha (LegalTech B2B SaaS) |
 | Aug 2019 – Aug 2021 | Research Associate (Consultant) | Citizens’ Foundation for Policy Solutions |
 
-Guest Mentor, IIM Raipur (PGP 2023–25), six student groups · Founder, TALAASH Heritage · MBA, Artificial Intelligence for Business, O.P. Jindal Global University (Expected Dec 2026) · PhD candidate, Deccan College
+Guest Mentor, IIM Raipur (PGP 2023–25), six student groups · Founder, TALAASH Heritage · MBA, Artificial Intelligence for Business, O.P. Jindal Global University (Expected Dec 2026)
 
 ### Toolkit
 
-**Product:** discovery and field research, PRDs/BRDs/MRDs, pricing, go-to-market, P&L ownership · **Build:** HTML/CSS/JS, React, Tailwind, Supabase, Shopify API · **AI:** Claude, agentic workflows, LangGraph · **Business systems:** Salesforce, in-house CRM/ERP
+**Product:** discovery and field research, PRDs/BRDs/MRDs, pricing, go-to-market, P&L ownership · **Build:** HTML/CSS/JS, React, Tailwind, Supabase · **AI:** Claude, agentic workflows, LangGraph · **Business systems:** Salesforce, in-house CRM/ERP
 
 ### Reach me
 
