@@ -1,10 +1,10 @@
 ## Hi, I'm Pryank 👋
 
-**Senior Product Manager · B2B SaaS, B2C and platform products · Payments, APIs, IoT and growth.**
+**Senior Product Manager · 0-to-1 B2B SaaS, AI and platform products.**
 
 I build 0→1 products and the businesses around them.
 
-Country Head & Product Manager at **FuelBuddy Zimbabwe**. I opened the market from zero as its Product Manager and now run it end to end: P&L, procurement, logistics, sales and hiring. Before that I was a Product Manager at FuelBuddy India (enterprise fuel management, including the Jindal Steel Plant system) and an APM at Legal Suvidha, a LegalTech SaaS. I own the P&L, not just the roadmap, and I still ship software myself.
+Country Head & Product Manager at **FuelBuddy Zimbabwe**. I opened the market from zero as its Product Manager and now run it end to end: P&L, procurement, logistics, sales and hiring. Before that I was a Product Manager at FuelBuddy India (vendor management, an IoT fuel-management system and UPI checkout) and an APM at Legal Suvidha, a LegalTech SaaS. I own the P&L, not just the roadmap, and I still ship software myself.
 
 | **7+ years · 5+ in product** | **4 countries** | **50+ repeat B2B customers** | **8-person team · 50+ colleagues** |
 |:---:|:---:|:---:|:---:|
@@ -18,8 +18,8 @@ Country Head & Product Manager at **FuelBuddy Zimbabwe**. I opened the market fr
 
 - **New market, zero to 1.5M litres a month by month ten.** Launched the Zimbabwe B2B bulk-fuel business, setting up banking, procurement, credit, dispatch and reporting under written SOPs.
 - **Country Head and Product Manager from May 2026.** Asked by the CEO to own the full P&L (procurement, logistics, sales, pricing and hiring) while keeping the product role.
-- **Jindal Steel Plant: about INR 4 lakh saved a month.** A six-month IoT FMS pilot saved 20 paise a litre on around 2M litres of diesel.
-- **Project Arjun with the CEO and GM.** Led the 0-to-1 roadmap and PRDs for a B2C fuel-retail app, including merchant-side UPI Intent and QR checkout with failure handling, refunds and reconciliation.
+- **IoT fuel management at a major steel producer.** Cut loss, theft and spillage by 20 paise a litre on 2M litres a month, reaching an INR 4 lakh monthly saving run-rate by month six of the pilot.
+- **Project Arjun with the CEO and GM.** Led 0-to-1 product strategy, roadmap and PRDs for a B2C fuel-retail app, specifying UPI Intent and QR checkout; 200+ employees made 2,000+ transactions in month one.
 - **Research Associate to PM in six months.** Earned the product role by shipping.
 
 ### Product case studies
