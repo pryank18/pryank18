@@ -34,7 +34,7 @@ Written the way I run product reviews: problem first, evidence second, scope las
 
 ### Built, not just specced
 
-Sample products I've taken from field problem to PRD to working demo. They run on sample data and are not commercial products; each ships with PRD, BRD, MRD and spec in `/docs`.
+Products I've taken from field problem to PRD to working demo. Demos run on sample data and are not commercial products; Pravesh is a live app in testing ahead of launch. Each ships with PRD, BRD, MRD and spec in `/docs`.
 
 | Product | Problem it solves | Links |
 |---|---|---|
@@ -43,6 +43,7 @@ Sample products I've taken from field problem to PRD to working demo. They run o
 | ⛽ **Depotline** | Depot operators juggle stock, pricing and fleet fuel logs across spreadsheets. One live view of stock, price, margin and fleet consumption. | [Case study](https://fern-appliance-85f.notion.site/3ebefd17b76681089891ed7697810089) · [Demo](https://pryank18.github.io/depotline-fuel-ops/) · [PRD](https://github.com/pryank18/depotline-fuel-ops/blob/main/docs/PRD.md) · [Repo](https://github.com/pryank18/depotline-fuel-ops) |
 | 🧭 **Msafara** | Tour operators chase hotels and vendors by hand. An AI agent that drafts requests, follows up, negotiates within rules and builds client proposals over email and WhatsApp. | [Case study](https://fern-appliance-85f.notion.site/3ebefd17b766814b8760e8717345b4a7) · [Demo](https://pryank18.github.io/Msafara/) · [PRD](https://github.com/pryank18/Msafara/blob/main/docs/PRD.md) · [Repo](https://github.com/pryank18/Msafara) |
 | 🏋️ **FitNexx** | Gym-goers follow generic templates that ignore what they actually lift. A strength-training app where every logged set adjusts the next one, with adaptive programs and progress tracking. | [Demo](https://pryank18.github.io/fitnexx/) · [PRD](https://github.com/pryank18/fitnexx/blob/main/FitNexx_PRD.md) · [Repo](https://github.com/pryank18/fitnexx) |
+| 🎯 **Pravesh** | Exam aspirants study alone while the families backing them have no view of progress. A family-first prep companion with daily targets, a mock-test log and opt-in guardian sharing, in English, Hindi and Hinglish. | [Case study](https://fern-appliance-85f.notion.site/3f6efd17b7668113a8a5ee48ffaadcde) · [App](https://pryank18.github.io/pravesh/) · [PRD](https://github.com/pryank18/pryank18.github.io/blob/main/pravesh/docs/PRD.md) |
 
 **In progress:** 🏺 ArchaeologyWala, a React content platform for archaeology and history.
 
