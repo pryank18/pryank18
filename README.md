@@ -1,14 +1,14 @@
 ## Hi, I'm Pryank 👋
 
-**Senior Product Manager · 0-to-1 B2B SaaS, B2C, AI and platform products.**
+**Senior Product Manager | 0-to-1 B2B SaaS, B2C, AI and Platform Products**
 
 I build 0→1 products and the businesses around them.
 
 Country Head & Product Manager at **FuelBuddy Zimbabwe**. I opened the market from zero as its Product Manager and now run it end to end: P&L, procurement, logistics, sales and hiring. Before that I was a Product Manager at FuelBuddy India (vendor management, an IoT loss-control system for heavy industry and UPI checkout) and an APM at Legal Suvidha, a LegalTech SaaS. I own the P&L, not just the roadmap, and I still ship software myself.
 
-| **7+ years · 5+ in product** | **4 countries** | **50+ repeat B2B customers** | **8-person team · 50+ colleagues** |
+| **7+ years · 5+ in product** | **4 countries** | **50+ enterprise and regional B2B clients** | **8-person team · 50+ colleagues** |
 |:---:|:---:|:---:|:---:|
-| B2B SaaS, payments, IoT, policy research | India and Zimbabwe; Zambia and Nigeria expansion work | Converted in nine months from a network of 400+ | Zimbabwe team + colleagues in Mozambique, Zambia, UAE, India |
+| B2B SaaS, payments, IoT, policy research | India and Zimbabwe; Zambia and Nigeria expansion work | Onboarded in Zimbabwe from a network of 400+ | Zimbabwe team + colleagues in Mozambique, Zambia, UAE, India |
 
 📘 **Portfolio and case studies:** [Notion portfolio](https://fern-appliance-85f.notion.site/Pryank-Wadhera-3eaefd17b76680c88283e85a3217ff52) &nbsp;·&nbsp; 🧪 **Live demos:** [pryank18.github.io](https://pryank18.github.io/) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/pryankwadhera)
 
@@ -16,10 +16,11 @@ Country Head & Product Manager at **FuelBuddy Zimbabwe**. I opened the market fr
 
 ### Track record
 
-- **Market entry and P&L, from zero to 1.5M litres a month by month ten.** Launched the Zimbabwe B2B bulk-fuel business, setting up banking, procurement, credit, dispatch and reporting under written SOPs.
+- **Market entry and P&L from zero.** Launched the Zimbabwe B2B bulk-fuel business and scaled it to 8 active depots with zero stock-outs, setting up banking, procurement, credit, dispatch and reporting under written SOPs.
 - **Country Head and Product Manager from May 2026.** Asked by the CEO to own the full P&L (procurement, logistics, sales, pricing and hiring) while keeping the product role.
-- **IoT loss-control platform for heavy industry (fuel), piloted at a major steel producer.** Cut loss, theft and spillage by 20 paise a litre on 2M litres a month, reaching an INR 4 lakh monthly saving run-rate by month six of the pilot.
-- **Project Arjun with the CEO and GM.** Led 0-to-1 product strategy, roadmap and PRDs for a B2C fuel-retail app, specifying UPI Intent and QR checkout; 200+ employees made 2,000+ transactions in month one.
+- **IoT loss-control platform for heavy industry (fuel), piloted at a major steel producer.** Wrote 100+ IoT requirements and ran a six-month pilot that measurably cut loss, theft and spillage.
+- **UPI checkout for fuel retail.** Specified UPI Intent and QR checkout; 200+ employees made 2,000+ transactions in month one.
+- **Project Arjun with the CEO and GM.** Led 0-to-1 strategy for EV and oil & gas retail infrastructure, backed by 100+ discovery interviews with fleet and EV operators.
 
 ### Product case studies
 
@@ -60,20 +61,20 @@ Products I've taken from field problem to PRD to working demo. Demos run on samp
 
 | When | Role | Where |
 |---|---|---|
-| May 2026 – now | **Country Head & Product Manager** | FuelBuddy, Harare, Zimbabwe (consultant engagement) |
-| Apr 2025 – Apr 2026 | Product Manager | FuelBuddy, Harare, Zimbabwe (consultant engagement) |
+| May 2026 – now | **Country Head & Product Manager** | FuelBuddy, Harare, Zimbabwe |
+| Apr 2025 – Apr 2026 | Product Manager | FuelBuddy, Harare, Zimbabwe |
 | Jan 2023 – Apr 2025 | Product Manager | FuelBuddy, Gurugram, India |
 | Sep 2021 – Dec 2022 | Associate Product Manager | Legal Suvidha (LegalTech B2B SaaS) |
-| Aug 2019 – Aug 2021 | Research Associate (Consultant) | Citizens’ Foundation for Policy Solutions |
+| Aug 2019 – Aug 2021 | Research Associate | Citizens’ Foundation for Policy Solutions |
 
 Guest Mentor, IIM Raipur (PGP 2023–25), six student groups · Founder, TALAASH Heritage · MBA, Artificial Intelligence for Business, O.P. Jindal Global University (Expected Dec 2026)
 
 ### Toolkit
 
-**Product:** discovery and field research, PRDs/BRDs/MRDs, pricing, go-to-market, P&L ownership · **Build:** HTML/CSS/JS, React, Tailwind, Supabase · **AI:** Claude, agentic workflows, LangGraph · **Business systems:** Salesforce, in-house CRM/ERP
+**Product:** discovery and field research, PRDs/BRDs/MRDs, pricing, go-to-market, P&L ownership · **Build:** HTML/CSS/JS, React, Tailwind, Supabase · **AI:** LLM APIs, agentic workflows, LangGraph · **Business systems:** Salesforce, in-house CRM/ERP
 
 ### Reach me
 
 [Notion portfolio](https://fern-appliance-85f.notion.site/Pryank-Wadhera-3eaefd17b76680c88283e85a3217ff52) · [LinkedIn](https://linkedin.com/in/pryankwadhera) · wadherapryank@gmail.com
 
-Open to **Senior Product Manager, Lead PM and Product Lead roles**. Based in New Delhi, open to relocation, hybrid or remote. 30-day notice.
+Open to **Senior Product Manager, Lead PM and Product Lead roles**. Based in New Delhi, open to relocation, hybrid or remote. Available immediately or within 15 days.
