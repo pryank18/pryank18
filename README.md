@@ -4,7 +4,7 @@
 
 I build products and the businesses around them, from 0 to 1.
 
-Country Head & Product Manager at **FuelBuddy Zimbabwe**. I opened the market from zero as its Product Manager and now run it end to end: P&L, procurement, logistics, sales and hiring. Before that I was a Product Manager at FuelBuddy India (vendor management, an IoT loss-control system for heavy industry and UPI checkout) and an APM at Legal Suvidha, a LegalTech SaaS. I own the P&L, not just the roadmap, and I still ship software myself.
+Most recently Country Head & Product Manager at **FuelBuddy Zimbabwe** (May – Oct 2026). I opened the market from zero as its Product Manager and then ran it end to end: P&L, procurement, logistics, sales and hiring. Before that I was a Product Manager at FuelBuddy India (vendor management, an IoT loss-control system for heavy industry and UPI checkout) and an APM at Legal Suvidha, a LegalTech SaaS. I own the P&L, not just the roadmap, and I still ship software myself.
 
 | **7+ years · 5+ in product** | **4 countries** | **50+ enterprise and regional B2B clients** | **8-person team · 50+ colleagues** |
 |:---:|:---:|:---:|:---:|
@@ -42,8 +42,8 @@ Products I've taken from field problem to PRD to working demo. Demos run on samp
 | 🧾 **Bolt & Bahi** | Textile traders run billing, stock, job work and receivables in notebooks. A local-first GST ledger that splits CGST, SGST and IGST automatically, with a built-in assistant and ten languages. | [Case study](https://fern-appliance-85f.notion.site/3ebefd17b76681698b4ad899d7ff5902) · [Demo](https://pryank18.github.io/bolt-and-bahi/) · [PRD](https://github.com/pryank18/bolt-and-bahi/blob/main/docs/PRD.md) · [Repo](https://github.com/pryank18/bolt-and-bahi) |
 | 📦 **Dispatch OS** | FMCG distributors take orders on WhatsApp and lose track of credit. B2B ordering that blocks orders breaching a retailer's credit limit and dispatches against live stock. | [Case study](https://fern-appliance-85f.notion.site/3ebefd17b76681328d1ef67b614c73b4) · [Demo](https://pryank18.github.io/dispatch-os/) · [PRD](https://github.com/pryank18/dispatch-os/blob/main/docs/PRD.md) · [Repo](https://github.com/pryank18/dispatch-os) |
 | ⛽ **Depotline** | Depot operators juggle stock, pricing and fleet fuel logs across spreadsheets. One live view of stock, price, margin and fleet consumption. | [Case study](https://fern-appliance-85f.notion.site/3ebefd17b76681089891ed7697810089) · [Demo](https://pryank18.github.io/depotline-fuel-ops/) · [PRD](https://github.com/pryank18/depotline-fuel-ops/blob/main/docs/PRD.md) · [Repo](https://github.com/pryank18/depotline-fuel-ops) |
-| 🧭 **Msafara** | Tour operators chase hotels and vendors by hand. An AI agent that drafts requests, follows up, negotiates within rules and builds client proposals over email and WhatsApp. | [Case study](https://fern-appliance-85f.notion.site/3ebefd17b766814b8760e8717345b4a7) · [Demo](https://pryank18.github.io/Msafara/) · [PRD](https://github.com/pryank18/Msafara/blob/main/docs/PRD.md) · [Repo](https://github.com/pryank18/Msafara) |
-| 🏋️ **FitNexx** | Gym-goers follow generic templates that ignore what they actually lift. A strength-training app where every logged set adjusts the next one, with adaptive programs and progress tracking. | [Demo](https://pryank18.github.io/fitnexx/) · [PRD](https://github.com/pryank18/fitnexx/blob/main/FitNexx_PRD.md) · [Repo](https://github.com/pryank18/fitnexx) |
+| 🧭 **Msafara** | Tour operators chase hotels and vendors by hand. An AI agent that drafts requests, follows up by email, negotiates within rules and builds client proposals. | [Case study](https://fern-appliance-85f.notion.site/3ebefd17b766814b8760e8717345b4a7) · [Demo](https://pryank18.github.io/Msafara/) · [PRD](https://github.com/pryank18/Msafara/blob/main/docs/PRD.md) · [Repo](https://github.com/pryank18/Msafara) |
+| 🏋️ **FitNexx** | Gym-goers follow generic templates that ignore what they actually lift. A strength-training app to log every set, see your estimated max and track progress lift by lift. Adaptive plans are designed in the PRD. | [Demo](https://pryank18.github.io/fitnexx/) · [PRD](https://github.com/pryank18/fitnexx/blob/main/FitNexx_PRD.md) · [Repo](https://github.com/pryank18/fitnexx) |
 | 🎯 **Pravesh** | Exam aspirants study alone while the families backing them have no view of progress. A family-first prep companion with daily targets, a mock-test log and opt-in guardian sharing, in English, Hindi and Hinglish. | [Case study](https://fern-appliance-85f.notion.site/3f6efd17b7668113a8a5ee48ffaadcde) · [App](https://pryank18.github.io/pravesh/) · [PRD](https://github.com/pryank18/pryank18.github.io/blob/main/pravesh/docs/PRD.md) |
 
 **In progress:** 🏺 ArchaeologyWala, a React content platform for archaeology and history.
@@ -61,7 +61,7 @@ Products I've taken from field problem to PRD to working demo. Demos run on samp
 
 | When | Role | Where |
 |---|---|---|
-| May 2026 – now | **Country Head & Product Manager** | FuelBuddy, Harare, Zimbabwe |
+| May 2026 – Oct 2026 | **Country Head & Product Manager** | FuelBuddy, Harare, Zimbabwe |
 | Apr 2025 – Apr 2026 | Product Manager | FuelBuddy, Harare, Zimbabwe |
 | Jan 2023 – Apr 2025 | Product Manager | FuelBuddy, Gurugram, India |
 | Sep 2021 – Dec 2022 | Associate Product Manager | Legal Suvidha (LegalTech B2B SaaS) |
@@ -77,4 +77,4 @@ Guest Mentor, IIM Raipur (PGP 2023–25), six student groups · Founder, TALAASH
 
 [Portfolio site](https://pryank18.github.io/) · [Notion portfolio](https://fern-appliance-85f.notion.site/Pryank-Wadhera-3eaefd17b76680c88283e85a3217ff52) · [LinkedIn](https://linkedin.com/in/pryankwadhera) · wadherapryank@gmail.com
 
-Open to **Senior Product Manager, Lead PM and Product Lead roles**. Based in New Delhi, open to relocation, hybrid or remote. Available immediately or within 15 days.
+Open to **Senior Product Manager, Lead PM and Product Lead roles**. Based in New Delhi, open to relocation, hybrid or remote. Available to join immediately.
