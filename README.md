@@ -47,8 +47,6 @@ Products I've taken from field problem to PRD to working demo. Demos run on samp
 | 🎯 **Pravesh** | Exam aspirants study alone while the families backing them have no view of progress. A family-first prep companion with daily targets, a mock-test log and opt-in guardian sharing, in English, Hindi and Hinglish. | [Case study](https://fern-appliance-85f.notion.site/3f6efd17b7668113a8a5ee48ffaadcde) · [App](https://pryank18.github.io/pravesh/) · [PRD](https://github.com/pryank18/pryank18.github.io/blob/main/pravesh/docs/PRD.md) |
 | 🛒 **Wapsi** | D2C stores lose most carts before checkout, and the usual fix is a blanket discount nobody can measure. A decision engine that checks consent, stock and quiet hours, reminds over WhatsApp, offers a discount only where it changes the outcome, and measures lift against a holdout. A concept with a working demo. | [Case study](https://fern-appliance-85f.notion.site/407efd17b7668197b534f187c8e66ce1) · [Demo](https://pryank18.github.io/wapsi/demo/) · [PRD](https://github.com/pryank18/pryank18.github.io/blob/main/wapsi/docs/PRD.md) |
 
-**In progress:** 🏺 ArchaeologyWala, a React content platform for archaeology and history.
-
 ### How I lead product
 
 - **Go to the site before writing the spec.** Watch what people actually do.
@@ -68,7 +66,7 @@ Products I've taken from field problem to PRD to working demo. Demos run on samp
 | Sep 2021 – Dec 2022 | Associate Product Manager | Legal Suvidha (LegalTech B2B SaaS) |
 | Aug 2019 – Aug 2021 | Research Associate | Citizens’ Foundation for Policy Solutions |
 
-Guest Mentor, IIM Raipur (PGP 2023–25), six student groups · Founder, TALAASH Heritage · MBA, Artificial Intelligence for Business, O.P. Jindal Global University (Expected Dec 2026)
+Guest Mentor, IIM Raipur (PGP 2023–25), six student groups · MBA, Artificial Intelligence for Business, O.P. Jindal Global University (Expected Dec 2026)
 
 ### Toolkit
 
@@ -77,5 +75,3 @@ Guest Mentor, IIM Raipur (PGP 2023–25), six student groups · Founder, TALAASH
 ### Reach me
 
 [Portfolio site](https://pryank18.github.io/) · [Notion portfolio](https://fern-appliance-85f.notion.site/Pryank-Wadhera-3eaefd17b76680c88283e85a3217ff52) · [LinkedIn](https://linkedin.com/in/pryankwadhera) · wadherapryank@gmail.com
-
-Open to **Senior Product Manager, Lead PM and Product Lead roles**. Based in New Delhi, open to relocation, hybrid or remote. Available to join immediately.
