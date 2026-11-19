@@ -75,3 +75,5 @@ Guest Mentor, IIM Raipur (PGP 2023–25), six student groups · MBA, Artificial 
 ### Reach me
 
 [Portfolio site](https://pryank18.github.io/) · [Notion portfolio](https://fern-appliance-85f.notion.site/Pryank-Wadhera-3eaefd17b76680c88283e85a3217ff52) · [LinkedIn](https://linkedin.com/in/pryankwadhera) · wadherapryank@gmail.com
+
+Open to **Senior Product Manager, Lead PM and Product Lead roles**. Based in New Delhi, open to relocation, hybrid or remote. Available to join immediately.
