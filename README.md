@@ -10,7 +10,7 @@ Most recently Country Head & Product Manager at **FuelBuddy Zimbabwe** (May – 
 |:---:|:---:|:---:|:---:|
 | B2B SaaS, payments, IoT, policy research | India and Zimbabwe; Zambia and Nigeria expansion work | Converted in nine months from a network of 400+ | Zimbabwe team + colleagues in Mozambique, Zambia, UAE, India |
 
-📘 **Portfolio and case studies:** [Notion portfolio](https://fern-appliance-85f.notion.site/Pryank-Wadhera-3eaefd17b76680c88283e85a3217ff52) &nbsp;·&nbsp; 🧪 **Live demos:** [pryank18.github.io](https://pryank18.github.io/) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/pryankwadhera)
+📘 **Portfolio and case studies:** [Notion portfolio](https://fern-appliance-85f.notion.site/Pryank-Wadhera-3eaefd17b76680c88283e85a3217ff52) &nbsp;·&nbsp; 🧪 **Live demos:** [pryank18.github.io](https://pryank18.github.io/) and [Hugging Face](https://huggingface.co/pryankwadhera) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/pryankwadhera)
 
 ---
 
@@ -74,6 +74,6 @@ Guest Mentor, IIM Raipur (PGP 2023–25), six student groups · MBA, Artificial 
 
 ### Reach me
 
-[Portfolio site](https://pryank18.github.io/) · [Notion portfolio](https://fern-appliance-85f.notion.site/Pryank-Wadhera-3eaefd17b76680c88283e85a3217ff52) · [LinkedIn](https://linkedin.com/in/pryankwadhera) · wadherapryank@gmail.com
+[Portfolio site](https://pryank18.github.io/) · [Hugging Face](https://huggingface.co/pryankwadhera) · [Notion portfolio](https://fern-appliance-85f.notion.site/Pryank-Wadhera-3eaefd17b76680c88283e85a3217ff52) · [LinkedIn](https://linkedin.com/in/pryankwadhera) · wadherapryank@gmail.com
 
 Open to **Senior Product Manager, Lead PM and Product Lead roles**. Based in New Delhi, open to relocation, hybrid or remote. Available to join immediately.
