@@ -20,7 +20,7 @@ Most recently Country Head & Product Manager at **FuelBuddy Zimbabwe** (May – 
 - **Country Head and Product Manager from May 2026.** Asked by the CEO to own the full P&L (procurement, logistics, sales, pricing and hiring) while keeping the product role.
 - **IoT loss-control platform for heavy industry (fuel), piloted at a major steel producer.** An IoT loss-control pilot at a major Indian steel producer cut loss, theft and spillage over six months.
 - **UPI checkout for the B2B platform.** Specified and shipped UPI Intent and QR checkout for the B2B platform, piloted internally with FuelBuddy's own teams: 2,000+ transactions in month one.
-- **Project Arjun with the GM and CEO.** Partnered with the GM and CEO on Project Arjun, an EV and oil & gas retail infrastructure plan built on 100+ fleet and EV operator interviews; plan approved by leadership.
+- **Project Arjun with the GM and CEO.** Partnered with the GM and CEO on Project Arjun: mapped EV and oil & gas retail infrastructure from 100+ fleet and EV operator interviews and designed a consumer commerce app for fuel and station products. Leadership approved the plan, and it was piloted in Delhi NCR and Bengaluru.
 
 ### Product case studies
 
